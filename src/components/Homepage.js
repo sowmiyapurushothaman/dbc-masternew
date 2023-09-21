@@ -29,7 +29,6 @@ function Homepage() {
         <button className='submit-button'><Link to='/dbc/Update' className='link update'>Update Card</Link></button>
       </div>
  </div>
-
  );
 };
 export default Homepage;
